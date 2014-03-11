@@ -11,6 +11,7 @@ This is a global list of e-reader rendering bugs. It serves two purposes:
 
 
 Add an issue, tag it with the device, take a shot. Do it again.
+
 https://github.com/dvschultz/99problems/issues
 
-More to follow...
+More to follow...the issues list is currently pretty bare, but I’m sure we can change that quickly.
