@@ -9,4 +9,7 @@ This is a global list of e-reader rendering bugs. It serves two purposes:
 2. to show how abysmal some of these rendering systems are. Really, someone should fix these problems;
 3. to provide potential hacks or solutions around these issues
 
+
+Add an issue, tag it with the device, take a shot.
+
 More to follow...
