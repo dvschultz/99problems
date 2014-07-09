@@ -1,7 +1,7 @@
 99problems
 ==========
 
-99 Problems and e-reader rendering are all of them.
+I got 99 Problems and e-reader rendering are all of them.
 
 This is a global list of e-reader rendering bugs. It serves two purposes:
 
